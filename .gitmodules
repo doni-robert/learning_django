@@ -1,0 +1,3 @@
+[submodule "learning_django"]
+	path = learning_django
+	url = https://github.com/doni-robert/learning_django.git
